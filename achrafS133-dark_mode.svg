@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960" height="540" viewBox="0 0 960 540" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#bgGradient)"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#e6edf3">
+    <text x="40" y="60" font-size="32" font-weight="bold" fill="#58a6ff">ER-RAHOUTI Achraf — Portfolio Stats</text>
+    <text x="40" y="90" font-size="18" fill="#8b949e">@achrafS133</text>
+
+    <!-- Commits -->
+    <text id="commit_label" x="40" y="140" fill="#c9d1d9">Commits</text>
+    <text id="commit_data_dots" x="200" y="140" fill="#30363d">................................</text>
+    <text id="commit_data" x="500" y="140" fill="#58a6ff" font-weight="bold">0</text>
+
+    <!-- Stars -->
+    <text id="star_label" x="40" y="180" fill="#c9d1d9">Stars</text>
+    <text id="star_data_dots" x="200" y="180" fill="#30363d">................................</text>
+    <text id="star_data" x="500" y="180" fill="#58a6ff" font-weight="bold">0</text>
+
+    <!-- Owned Repos -->
+    <text id="repo_label" x="40" y="220" fill="#c9d1d9">Repos</text>
+    <text id="repo_data_dots" x="200" y="220" fill="#30363d">................................</text>
+    <text id="repo_data" x="500" y="220" fill="#58a6ff" font-weight="bold">0</text>
+
+    <!-- Contributed Repos -->
+    <text id="contrib_label" x="40" y="260" fill="#c9d1d9">Contributed</text>
+    <text id="contrib_data_dots" x="200" y="260" fill="#30363d">................................</text>
+    <text id="contrib_data" x="500" y="260" fill="#58a6ff" font-weight="bold">0</text>
+
+    <!-- Followers -->
+    <text id="follower_label" x="40" y="300" fill="#c9d1d9">Followers</text>
+    <text id="follower_data_dots" x="200" y="300" fill="#30363d">................................</text>
+    <text id="follower_data" x="500" y="300" fill="#58a6ff" font-weight="bold">0</text>
+
+    <!-- Lines of Code -->
+    <text id="loc_label" x="40" y="340" fill="#c9d1d9">Total LoC</text>
+    <text id="loc_data_dots" x="200" y="340" fill="#30363d">................................</text>
+    <text id="loc_data" x="500" y="340" fill="#58a6ff" font-weight="bold">0</text>
+
+    <text id="loc_add_label" x="40" y="380" fill="#c9d1d9">LoC Added</text>
+    <text id="loc_add_dots" x="200" y="380" fill="#30363d">................................</text>
+    <text id="loc_add" x="500" y="380" fill="#3fb950" font-weight="bold">0</text>
+
+    <text id="loc_del_label" x="40" y="420" fill="#c9d1d9">LoC Deleted</text>
+    <text id="loc_del_dots" x="200" y="420" fill="#30363d">................................</text>
+    <text id="loc_del" x="500" y="420" fill="#f85149" font-weight="bold">0</text>
+
+    <text x="40" y="490" fill="#8b949e" font-size="14">Generated daily via GitHub Actions • Last updated: <tspan id="last_updated">Never</tspan></text>
+  </g>
+</svg>
+

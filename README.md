@@ -2,7 +2,7 @@
 
 # Hi, I'm ER-RAHOUTI Achraf
 
-### Software Developer | Full Stack Enthusiast | AI/ML Engineer | CS Graduate
+### Software Developer | Full Stack Enthusiast | AI/ML Engineer | DATA Engineer
 
 **Welcome to my GitHub profile!**
 

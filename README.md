@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm ER-RAHOUTI Achraf
+# Hi, I'm ER-RAHOUTI Achraf
 
 ### Software Developer | Full Stack Enthusiast | AI/ML Engineer | CS Graduate
 
-**Welcome to my GitHub profile!** 🚀
+**Welcome to my GitHub profile!**
 
 [![Portfolio Stats](https://github.com/achrafS133/achrafS133/blob/main/dark_mode.svg)](https://github.com/achrafS133/achrafS133)
 
@@ -16,17 +16,17 @@
 
 ---
 
-## 😂 Me Working on Data Projects
+## Me Working on Data Projects
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/achrafS133/achrafS133/main/assets/data.png" alt="Spider-Man Data Roles Meme" width="500">
 
-*Data Engineer? Data Scientist? Data Analyst? Analytics Engineer? We're all just pointing at each other!* 🕷️
+*Data Engineer? Data Scientist? Data Analyst? Analytics Engineer? We're all just pointing at each other!*
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```python
 class Achraf:
@@ -34,7 +34,7 @@ class Achraf:
         self.name = "ER-RAHOUTI Achraf"
         self.username = "achrafS133"
         self.role = "Software Developer & ML Engineer"
-        self.location = "Morocco 🇲🇦"
+        self.location = "Morocco"
         self.education = "CS Graduate"
         self.languages = ["Python", "JavaScript", "Java", "C++", "TypeScript"]
         self.interests = ["Web Development", "AI/ML", "Game Development", "Open Source"]
@@ -43,10 +43,10 @@ class Achraf:
         return "Building innovative projects and contributing to open source"
     
     def hobbies(self):
-        return ["Chess ♟️", "Puzzles 🧩", "Gaming 🎮", "Exploring new technologies 🔬"]
+        return ["Chess", "Puzzles", "Gaming", "Exploring new technologies"]
     
     def fun_fact(self):
-        return "I can debug code faster than I can explain what I'm doing 😄"
+        return "I can debug code faster than I can explain what I'm doing"
     
     def quote(self):
         return "I like building and shipping projects. Up for a game or have a project idea? Let me know!"
@@ -54,19 +54,7 @@ class Achraf:
 
 ---
 
-## 🎭 More Fun Stuff
-
-<div align="center">
-
-| When the code works on first try | When you finally fix that bug at 3 AM |
-|:---:|:---:|
-| ![Surprised](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyE/giphy.gif) | ![Celebration](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif) |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -109,7 +97,7 @@ class Achraf:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -123,7 +111,7 @@ class Achraf:
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achrafS133/achrafS133/output/github-contribution-grid-snake-dark.svg">
@@ -131,16 +119,16 @@ class Achraf:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/achrafS133/achrafS133/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-> ⚠️ **Note:** The snake will appear after the GitHub Action runs for the first time!
+> **Note:** The snake will appear after the GitHub Action runs for the first time!
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 <details>
-<summary><b>🧬 TheLifeOfPy - Artificial Life Simulator</b></summary>
+<summary><b>TheLifeOfPy - Artificial Life Simulator</b></summary>
 
 Inspired by @PrimerBlobs, @davidrandallmiller, and @3Blue1Brown, this is my attempt at creating an artificial life simulation where you can create organisms with customizable phenotypic and genotypic traits (neural networks, size, color, defense mechanisms) and watch them evolve in an environment.
 
@@ -151,7 +139,7 @@ Inspired by @PrimerBlobs, @davidrandallmiller, and @3Blue1Brown, this is my atte
 </details>
 
 <details>
-<summary><b>🧠 GridNavigatorRE - Reinforcement Learning Grid Navigator</b></summary>
+<summary><b>GridNavigatorRE - Reinforcement Learning Grid Navigator</b></summary>
 
 My first Reinforcement Learning project! A DQN-based agent that learns to navigate a grid environment, avoiding obstacles to reach a goal. Worked for months on this and it was rewarding to see the agent learn and improve.
 
@@ -162,7 +150,7 @@ My first Reinforcement Learning project! A DQN-based agent that learns to naviga
 </details>
 
 <details>
-<summary><b>❌ TicTacToeAI - Minimax Algorithm Implementation</b></summary>
+<summary><b>TicTacToeAI - Minimax Algorithm Implementation</b></summary>
 
 An unbeatable Tic-Tac-Toe AI using the Minimax algorithm. Learned from CS50's Introduction to Artificial Intelligence course and implemented from scratch.
 
@@ -173,7 +161,7 @@ An unbeatable Tic-Tac-Toe AI using the Minimax algorithm. Learned from CS50's In
 </details>
 
 <details>
-<summary><b>💣 MinesweeperAI - CSP Solver</b></summary>
+<summary><b>MinesweeperAI - CSP Solver</b></summary>
 
 After TicTacToeAI, I wanted to go further. This project uses Constraint Satisfaction Problem (CSP) techniques to solve Minesweeper. Watch the AI clear the field!
 
@@ -183,10 +171,10 @@ After TicTacToeAI, I wanted to go further. This project uses Constraint Satisfac
 
 </details>
 
-### 💻 Full Stack Applications
+### Full Stack Applications
 
 <details>
-<summary><b>🗄️ DataSmith - Cross-platform SQL Database Populator</b></summary>
+<summary><b>DataSmith - Cross-platform SQL Database Populator</b></summary>
 
 A free cross-platform app to generate realistic SQL test data with almost no setup. Auto-detects DB schema, supports Faker, regex, Python, foreign keys, and can export .sql or insert directly. Evolved from DataForge CLI tool.
 
@@ -197,7 +185,7 @@ A free cross-platform app to generate realistic SQL test data with almost no set
 </details>
 
 <details>
-<summary><b>🗃️ DataForge - Database Auto-Population Tool</b></summary>
+<summary><b>DataForge - Database Auto-Population Tool</b></summary>
 
 Python tool to auto-generate and insert realistic test data into databases. Intelligently handles foreign key relationships to order table population correctly.
 
@@ -208,7 +196,7 @@ Python tool to auto-generate and insert realistic test data into databases. Inte
 </details>
 
 <details>
-<summary><b>🎉 Galagrid - Event Rental & Management App</b></summary>
+<summary><b>Galagrid - Event Rental & Management App</b></summary>
 
 My mini-project for BTech degree - a full-stack app for hiring goods and managing events. This project boosted my confidence in app development and taught me a lot about the development process.
 
@@ -219,7 +207,7 @@ My mini-project for BTech degree - a full-stack app for hiring goods and managin
 </details>
 
 <details>
-<summary><b>🏥 Healie - Personal Health Assistant 🏆 Best AI/ML Project</b></summary>
+<summary><b>Healie - Personal Health Assistant (Best AI/ML Project)</b></summary>
 
 A health assistant app that provides secondary medical opinions. Won **"Best AI/ML project"** in a hackathon! Helps doctors make better choices and patients understand their treatments better.
 
@@ -230,7 +218,7 @@ A health assistant app that provides secondary medical opinions. Won **"Best AI/
 </details>
 
 <details>
-<summary><b>🏫 ZTLAB - Campus Management App Wrapper</b></summary>
+<summary><b>ZTLAB - Campus Management App Wrapper</b></summary>
 
 A React Native app that wraps ETLAB (campus management system) with additional features, particularly attendance tracking. One of my first Android apps that taught me a lot about app development.
 
@@ -241,7 +229,7 @@ A React Native app that wraps ETLAB (campus management system) with additional f
 </details>
 
 <details>
-<summary><b>🖱️ Clickery - User Input Automation Tool</b></summary>
+<summary><b>Clickery - User Input Automation Tool</b></summary>
 
 One of my first projects - an automation tool for repetitive user input tasks. Built with passion during my early coding days. Friends loved it, which motivated me to create more projects!
 
@@ -251,10 +239,10 @@ One of my first projects - an automation tool for repetitive user input tasks. B
 
 </details>
 
-### 🎮 Game Development
+### Game Development
 
 <details>
-<summary><b>🚀 The Nightflier - Arcade Space Shooter</b></summary>
+<summary><b>The Nightflier - Arcade Space Shooter</b></summary>
 
 A classic space shooter game where you protect your ship from attackers until the clock runs down. Started in Scratch MIT and later ported to web. A fun project from my game development journey!
 
@@ -265,7 +253,7 @@ A classic space shooter game where you protect your ship from attackers until th
 </details>
 
 <details>
-<summary><b>🏃 Free Roam - Endless Runner Game</b></summary>
+<summary><b>Free Roam - Endless Runner Game</b></summary>
 
 An endless runner game from my high school days. Started as an ambitious project with a grand storyline, but narrowed down to this simple concept: keep your vehicle going! A piece from my early game development days.
 
@@ -277,23 +265,23 @@ An endless runner game from my high school days. Started as an ambitious project
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=achrafS133&theme=tokyo-night&hide_border=true&area=true&height=300)
 
 ---
 
-## 🔥 GitHub Trophies
+## GitHub Trophies
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=achrafS133&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15)
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 <div align="center">
 
-| 🔨 Building | 🤖 Exploring | 📚 Learning | 🤝 Contributing | 💡 Solving |
+| Building | Exploring | Learning | Contributing | Solving |
 |:---:|:---:|:---:|:---:|:---:|
 | Innovative web & mobile apps | AI/ML & reinforcement learning | New technologies & frameworks | Open source projects | Real-world problems with code |
 
@@ -301,7 +289,7 @@ An endless runner game from my high school days. Started as an ambitious project
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -315,49 +303,15 @@ An endless runner game from my high school days. Started as an ambitious project
 
 ---
 
-## 💬 Random Dev Quote
+## Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-## 😄 Coding Humor
-
 <div align="center">
 
-```
-        _______________
-       /               \
-      |  while(true)   |
-      |    code();     |
-      |    coffee();   |
-      |    repeat();   |
-       \_______________/
-              |
-              |
-         _____|_____
-        |           |
-        |  ☕ 💻 🔁 |
-        |___________|
-```
-
-**My Debug Strategy:**
-
-```
-1. Add console.log everywhere 🖨️
-2. Google the error 🔍
-3. Stack Overflow saves the day 🦸
-4. Pretend the bug is a feature ✨
-5. Repeat until it works 🔄
-```
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐️ From [achrafS133](https://github.com/achrafS133)
+### From [achrafS133](https://github.com/achrafS133)
 
 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
@@ -365,7 +319,7 @@ An endless runner game from my high school days. Started as an ambitious project
 ![Followers](https://img.shields.io/github/followers/achrafS133?label=Followers&style=flat-square&color=blue)
 ![Stars](https://img.shields.io/github/stars/achrafS133?label=Stars&style=flat-square&color=yellow)
 
-**Thanks for visiting! Feel free to fork, star, or contribute to any of my projects! 🚀**
+**Thanks for visiting! Feel free to fork, star, or contribute to any of my projects!**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
@@ -373,4 +327,4 @@ An endless runner game from my high school days. Started as an ambitious project
 
 ---
 
-*This README is automatically updated daily via GitHub Actions* ⚡
+*This README is automatically updated daily via GitHub Actions*

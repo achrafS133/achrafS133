@@ -128,138 +128,59 @@ class Achraf:
 ### AI & Machine Learning
 
 <details>
-<summary><b>TheLifeOfPy - Artificial Life Simulator</b></summary>
+<summary><b>CAN 2025 Guardian - Intelligent Security & Fan Assistant</b></summary>
 
-Inspired by @PrimerBlobs, @davidrandallmiller, and @3Blue1Brown, this is my attempt at creating an artificial life simulation where you can create organisms with customizable phenotypic and genotypic traits (neural networks, size, color, defense mechanisms) and watch them evolve in an environment.
+A state-of-the-art Security Operations Center (SOC) designed for the Africa Cup of Nations 2025 in Morocco. Combines Computer Vision (YOLOv8), Generative AI (GPT/Gemini/Claude), and Real-time Monitoring. Features threat detection, crowd counting, emotion analysis, and multilingual chatbot supporting Moroccan Darija.
 
-**Tech Stack:** Pygame | AI | Python | Neural Networks
+**Tech Stack:** Python | FastAPI | React | TypeScript | YOLOv8 | OpenAI | Google Gemini | Docker
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/MZaFaRM/TheLifeOfPy) [![Stars](https://img.shields.io/github/stars/MZaFaRM/TheLifeOfPy?style=flat-square&logo=github)](https://github.com/MZaFaRM/TheLifeOfPy/stargazers)
-
-</details>
-
-<details>
-<summary><b>GridNavigatorRE - Reinforcement Learning Grid Navigator</b></summary>
-
-My first Reinforcement Learning project! A DQN-based agent that learns to navigate a grid environment, avoiding obstacles to reach a goal. Worked for months on this and it was rewarding to see the agent learn and improve.
-
-**Tech Stack:** Pygame | Stable Baselines 3 | Gymnasium | PyTorch | DQN
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/MZaFaRM/GridNavigatorRE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/achrafS133/CAN2025_Project)
 
 </details>
 
 <details>
-<summary><b>TicTacToeAI - Minimax Algorithm Implementation</b></summary>
+<summary><b>VibroFlow AI - Predictive Maintenance System</b></summary>
 
-An unbeatable Tic-Tac-Toe AI using the Minimax algorithm. Learned from CS50's Introduction to Artificial Intelligence course and implemented from scratch.
+Intelligent system combining predictive maintenance and non-intrusive flow measurement through advanced vibration analysis using AI. Features 1D CNN, BiLSTM, and hybrid deep learning models for fault detection and condition monitoring of hydraulic systems and rotating machinery.
 
-**Tech Stack:** Python | Minimax | AI
+**Tech Stack:** Python | PyTorch | Streamlit | scikit-learn | Deep Learning | Signal Processing
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/MZaFaRM/TicTacToeAI)
-
-</details>
-
-<details>
-<summary><b>MinesweeperAI - CSP Solver</b></summary>
-
-After TicTacToeAI, I wanted to go further. This project uses Constraint Satisfaction Problem (CSP) techniques to solve Minesweeper. Watch the AI clear the field!
-
-**Tech Stack:** Python | CSP | AI
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/MZaFaRM/MinesweeperAI)
-
-</details>
-
-### Full Stack Applications
-
-<details>
-<summary><b>DataSmith - Cross-platform SQL Database Populator</b></summary>
-
-A free cross-platform app to generate realistic SQL test data with almost no setup. Auto-detects DB schema, supports Faker, regex, Python, foreign keys, and can export .sql or insert directly. Evolved from DataForge CLI tool.
-
-**Tech Stack:** Tauri | React | Rust | SQL | Python
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/MZaFaRM/DataSmith)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/achrafS133/vibroflow-ai)
 
 </details>
 
 <details>
-<summary><b>DataForge - Database Auto-Population Tool</b></summary>
+<summary><b>MCP-Spring-Python-AI - Multi-Protocol Chatbot</b></summary>
 
-Python tool to auto-generate and insert realistic test data into databases. Intelligently handles foreign key relationships to order table population correctly.
+A modular chatbot demonstrating Model Context Protocol (MCP) implementation with Spring Boot (SSE-based MCP client/server), Python/NodeJS (STDIO-mode MCP tools), and Angular frontend. Features multi-backend AI integration with Ollama Qwen3 model.
 
-**Tech Stack:** Python | SQLAlchemy
+**Tech Stack:** Java | Spring Boot | Angular | Python | Node.js | Ollama | MCP Protocol
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/MZaFaRM/DataForge)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/achrafS133/mcp-spring-python-ai)
+
+</details>
+
+### Data Engineering
+
+<details>
+<summary><b>NewsOps - News Intelligence Platform</b></summary>
+
+A Next-Generation News Data Engineering platform leveraging Dagster, ClickHouse, and Neo4j for real-time analytics and knowledge graph generation. Features asset-based pipeline orchestration, real-time event streaming with Kafka, and interactive Streamlit dashboard.
+
+**Tech Stack:** TypeScript | Python | Dagster | Kafka | ClickHouse | Neo4j | Streamlit | Docker
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/achrafS133/newsops)
 
 </details>
 
 <details>
-<summary><b>Galagrid - Event Rental & Management App</b></summary>
+<summary><b>FinanceETLHub - Finance Data Platform</b></summary>
 
-My mini-project for BTech degree - a full-stack app for hiring goods and managing events. This project boosted my confidence in app development and taught me a lot about the development process.
+A comprehensive, production-ready Data Engineering project simulating a Financial Data Platform. Features end-to-end ETL pipeline, Star Schema Data Warehouse, CDC simulation, multi-currency conversion, advanced fraud detection, and RFM customer segmentation.
 
-**Tech Stack:** React Native | Django | MySQL
+**Tech Stack:** Python | PostgreSQL | Apache Airflow | Docker | GCP BigQuery | Streamlit
 
-[![Frontend](https://img.shields.io/badge/Frontend-Repository-61DAFB?style=flat-square&logo=react)](https://github.com/MZaFaRM/Galagrid) [![Backend](https://img.shields.io/badge/Backend-Repository-092E20?style=flat-square&logo=django)](https://github.com/MZaFaRM/GalaBack)
-
-</details>
-
-<details>
-<summary><b>Healie - Personal Health Assistant (Best AI/ML Project)</b></summary>
-
-A health assistant app that provides secondary medical opinions. Won **"Best AI/ML project"** in a hackathon! Helps doctors make better choices and patients understand their treatments better.
-
-**Tech Stack:** Flutter | FastAPI
-
-[![Frontend](https://img.shields.io/badge/Frontend-Repository-02569B?style=flat-square&logo=flutter)](https://github.com/MZaFaRM/Healie) [![Backend](https://img.shields.io/badge/Backend-Repository-009688?style=flat-square&logo=fastapi)](https://github.com/MZaFaRM/Healie-backend)
-
-</details>
-
-<details>
-<summary><b>ZTLAB - Campus Management App Wrapper</b></summary>
-
-A React Native app that wraps ETLAB (campus management system) with additional features, particularly attendance tracking. One of my first Android apps that taught me a lot about app development.
-
-**Tech Stack:** React Native | FastAPI | Web Scraping
-
-[![Frontend](https://img.shields.io/badge/Frontend-Repository-61DAFB?style=flat-square&logo=react)](https://github.com/MZaFaRM/ZTLAB) [![Backend](https://img.shields.io/badge/Backend-Repository-009688?style=flat-square&logo=fastapi)](https://github.com/MZaFaRM/ZTLAB-Backend)
-
-</details>
-
-<details>
-<summary><b>Clickery - User Input Automation Tool</b></summary>
-
-One of my first projects - an automation tool for repetitive user input tasks. Built with passion during my early coding days. Friends loved it, which motivated me to create more projects!
-
-**Tech Stack:** Python | PyAutoGUI
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/MZaFaRM/Clickery)
-
-</details>
-
-### Game Development
-
-<details>
-<summary><b>The Nightflier - Arcade Space Shooter</b></summary>
-
-A classic space shooter game where you protect your ship from attackers until the clock runs down. Started in Scratch MIT and later ported to web. A fun project from my game development journey!
-
-**Tech Stack:** Scratch MIT | Game Development
-
-[![Play Game](https://img.shields.io/badge/Play-Game-FF6B6B?style=flat-square)](https://mzafarm.github.io/TheNightflier/) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/MZaFaRM/TheNightflier)
-
-</details>
-
-<details>
-<summary><b>Free Roam - Endless Runner Game</b></summary>
-
-An endless runner game from my high school days. Started as an ambitious project with a grand storyline, but narrowed down to this simple concept: keep your vehicle going! A piece from my early game development days.
-
-**Tech Stack:** Scratch MIT | Game Development
-
-[![Play Game](https://img.shields.io/badge/Play-Game-FF6B6B?style=flat-square)](https://mzafarm.github.io/FreeRoam/) [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/MZaFaRM/FreeRoam)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/achrafS133/FinanceETLHub)
 
 </details>
 

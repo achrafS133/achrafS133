@@ -93,11 +93,12 @@ class Achraf:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achrafS133&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&hide_border=true&include_all_commits=true&count_private=true)
+<a href="https://github.com/achrafS133">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=achrafS133&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=achrafS133&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafS133&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&hide_border=true&langs_count=10)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=achrafS133&theme=tokyonight&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=achrafS133&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
 
 </div>
 

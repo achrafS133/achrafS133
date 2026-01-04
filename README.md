@@ -16,6 +16,14 @@
 
 ---
 
+## 😂 Me Working on Data Projects
+
+<img src="https://raw.githubusercontent.com/achrafS133/achrafS133/main/images/spiderman-data-meme.jpg" alt="Data Roles Meme" width="500">
+
+*When everyone uses dbt but no one knows who's responsible for what* 🕷️
+
+---
+
 ## 🚀 About Me
 
 ```python
@@ -33,11 +41,26 @@ class Achraf:
         return "Building innovative projects and contributing to open source"
     
     def hobbies(self):
-        return ["Chess", "Puzzles", "Gaming", "Exploring new technologies"]
+        return ["Chess ♟️", "Puzzles 🧩", "Gaming 🎮", "Exploring new technologies 🔬"]
+    
+    def fun_fact(self):
+        return "I can debug code faster than I can explain what I'm doing 😄"
     
     def quote(self):
         return "I like building and shipping projects. Up for a game or have a project idea? Let me know!"
 ```
+
+---
+
+## 🎭 More Fun Stuff
+
+<div align="center">
+
+| When the code works on first try | When you finally fix that bug at 3 AM |
+|:---:|:---:|
+| ![Surprised](https://media.giphy.com/media/3o7TKSjRrfIPjeiVyE/giphy.gif) | ![Celebration](https://media.giphy.com/media/11sBLVxNs7v6WA/giphy.gif) |
+
+</div>
 
 ---
 
@@ -66,12 +89,13 @@ class Achraf:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### AI/ML & Game Development
+### AI/ML & Data
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 ![Stable Baselines3](https://img.shields.io/badge/Stable_Baselines3-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -87,13 +111,25 @@ class Achraf:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achrafS133&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achrafS133&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafS133&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&hide_border=true&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achrafS133&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&hide_border=true&langs_count=10)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=achrafS133&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=achrafS133&theme=tokyonight&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&hide_border=true)
 
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/achrafS133/achrafS133/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/achrafS133/achrafS133/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/achrafS133/achrafS133/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+> ⚠️ **Note:** The snake will appear after the GitHub Action runs for the first time!
 
 ---
 
@@ -241,7 +277,7 @@ An endless runner game from my high school days. Started as an ambitious project
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=achrafS133&theme=github-dark&hide_border=true&area=true&height=300)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=achrafS133&theme=tokyo-night&hide_border=true&area=true&height=300)
 
 ---
 
@@ -253,11 +289,13 @@ An endless runner game from my high school days. Started as an ambitious project
 
 ## 🎯 Current Focus
 
-- 🔨 Building innovative web and mobile applications
-- 🤖 Exploring AI/ML and reinforcement learning
-- 📚 Learning new technologies and frameworks
-- 🤝 Contributing to open source projects
-- 💡 Solving real-world problems with code
+<div align="center">
+
+| 🔨 Building | 🤖 Exploring | 📚 Learning | 🤝 Contributing | 💡 Solving |
+|:---:|:---:|:---:|:---:|:---:|
+| Innovative web & mobile apps | AI/ML & reinforcement learning | New technologies & frameworks | Open source projects | Real-world problems with code |
+
+</div>
 
 ---
 
@@ -277,7 +315,41 @@ An endless runner game from my high school days. Started as an ambitious project
 
 ## 💬 Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 😄 Coding Humor
+
+<div align="center">
+
+```
+        _______________
+       /               \
+      |  while(true)   |
+      |    code();     |
+      |    coffee();   |
+      |    repeat();   |
+       \_______________/
+              |
+              |
+         _____|_____
+        |           |
+        |  ☕ 💻 🔁 |
+        |___________|
+```
+
+**My Debug Strategy:**
+
+```
+1. Add console.log everywhere 🖨️
+2. Google the error 🔍
+3. Stack Overflow saves the day 🦸
+4. Pretend the bug is a feature ✨
+5. Repeat until it works 🔄
+```
+
+</div>
 
 ---
 
@@ -288,8 +360,12 @@ An endless runner game from my high school days. Started as an ambitious project
 **"Code is like humor. When you have to explain it, it's bad."** - Cory House
 
 ![Profile Views](https://komarev.com/ghpvc/?username=achrafS133&color=blueviolet&style=flat-square)
+![Followers](https://img.shields.io/github/followers/achrafS133?label=Followers&style=flat-square&color=blue)
+![Stars](https://img.shields.io/github/stars/achrafS133?label=Stars&style=flat-square&color=yellow)
 
 **Thanks for visiting! Feel free to fork, star, or contribute to any of my projects! 🚀**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
 

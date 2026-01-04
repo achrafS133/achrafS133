@@ -19,7 +19,7 @@
 ## 😂 Me Working on Data Projects
 
 <div align="center">
-<img src="https://pbs.twimg.com/media/FN0EWP0XsAQyPJR?format=jpg&name=medium" alt="Spider-Man Data Roles Meme" width="500">
+<img src="https://raw.githubusercontent.com/achrafS133/achrafS133/main/assets/data.png" alt="Spider-Man Data Roles Meme" width="500">
 
 *Data Engineer? Data Scientist? Data Analyst? Analytics Engineer? We're all just pointing at each other!* 🕷️
 </div>

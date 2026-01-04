@@ -2,17 +2,9 @@
 
 # Hi, I'm ER-RAHOUTI Achraf
 
-### Software Developer | Full Stack Enthusiast | AI/ML Engineer | DATA Engineer
+### Software Developer | Full Stack Enthusiast | AI/ML Engineer | Data Engineer
 
 **Welcome to my GitHub profile!**
-
-[![Portfolio Stats](https://github.com/achrafS133/achrafS133/blob/main/dark_mode.svg)](https://github.com/achrafS133/achrafS133)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/achrafS133/achrafS133/blob/main/dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/achrafS133/achrafS133/blob/main/light_mode.svg">
-  <img alt="Portfolio Stats" src="https://github.com/achrafS133/achrafS133/blob/main/dark_mode.svg" width="960">
-</picture>
 
 ---
 

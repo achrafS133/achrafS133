@@ -18,7 +18,7 @@
 
 ## 😂 Me Working on Data Projects
 
-<img src="https://raw.githubusercontent.com/achrafS133/achrafS133/main/images/spiderman-data-meme.jpg" alt="Data Roles Meme" width="500">
+<img src="https://i.imgflip.com/65bs3y.jpg" alt="Data Roles Spider-Man Meme" width="500">
 
 *When everyone uses dbt but no one knows who's responsible for what* 🕷️
 

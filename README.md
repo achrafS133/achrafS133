@@ -18,9 +18,11 @@
 
 ## 😂 Me Working on Data Projects
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Gif" width="500">
+<div align="center">
+<img src="https://pbs.twimg.com/media/FN0EWP0XsAQyPJR?format=jpg&name=medium" alt="Spider-Man Data Roles Meme" width="500">
 
 *Data Engineer? Data Scientist? Data Analyst? Analytics Engineer? We're all just pointing at each other!* 🕷️
+</div>
 
 ---
 

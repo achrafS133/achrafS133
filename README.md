@@ -18,9 +18,9 @@
 
 ## 😂 Me Working on Data Projects
 
-<img src="https://i.imgflip.com/65bs3y.jpg" alt="Data Roles Spider-Man Meme" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coding Gif" width="500">
 
-*When everyone uses dbt but no one knows who's responsible for what* 🕷️
+*Data Engineer? Data Scientist? Data Analyst? Analytics Engineer? We're all just pointing at each other!* 🕷️
 
 ---
 

@@ -98,9 +98,7 @@ class Achraf:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=achrafS133&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </a>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=achrafS133&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</a>
+<img src="https://github-readme-streak-stats-nine-phi.vercel.app/?user=achrafS133&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 

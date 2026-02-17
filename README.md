@@ -171,13 +171,6 @@ A comprehensive, production-ready Data Engineering project simulating a Financia
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=achrafS133&theme=tokyo-night&hide_border=true&area=true&height=300)
 
----
-
-## GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=achrafS133&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15)
-
----
 
 ## Current Focus
 

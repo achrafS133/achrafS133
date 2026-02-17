@@ -195,13 +195,7 @@ A comprehensive, production-ready Data Engineering project simulating a Financia
 
 </div>
 
----
 
-## Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 <div align="center">
 
